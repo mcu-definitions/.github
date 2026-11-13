@@ -1,4 +1,4 @@
-# MCU Definitions
+# MCC
 
 Open-source libraries and resources for low-level hardware development.
 
