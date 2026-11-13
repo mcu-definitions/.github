@@ -1,6 +1,6 @@
 # Architecture
 
-MCU Definitions is a modular C++ ecosystem for hardware definitions, peripheral interfaces, device-specific implementations, and reusable libraries. Each component can be maintained and versioned independently.
+MCC (Microcontroller Common Components) is a modular C++ ecosystem for hardware definitions, peripheral interfaces, device-specific implementations, and reusable libraries. Each component can be maintained and versioned independently.
 
 The architecture does **not** require a single, mandatory hardware core. Projects include only the components they need.
 
