@@ -15,8 +15,8 @@ Modular, header-only C++ definitions for specific microcontrollers and microproc
 
 | Repository | Description | Documentation |
 | --- | --- | --- |
-| [ATmega328P](https://github.com/mcu-definitions/atmega328p) | Hardware definitions for the ATmega328P. | [API docs](https://mcu-definitions.github.io/atmega328p/) |
-| [ATmega2560](https://github.com/mcu-definitions/atmega2560) | Hardware definitions for the ATmega2560. | [API docs](https://mcu-definitions.github.io/atmega2560/) |
+| [ATmega328P](https://github.com/mcc-embedded/atmega328p) | Hardware definitions for the ATmega328P. | [API docs](https://mcc-embedded.github.io/atmega328p/) |
+| [ATmega2560](https://github.com/mcc-embedded/atmega2560) | Hardware definitions for the ATmega2560. | [API docs](https://mcc-embedded.github.io/atmega2560/) |
 
 ### Adapter Interfaces
 
@@ -24,7 +24,7 @@ Hardware-independent interfaces for MCU peripheral adapters.
 
 | Repository | Description | Documentation |
 | --- | --- | --- |
-| [Adapter](https://github.com/mcu-definitions/adapter) | Standardized interfaces for common microcontroller peripherals. | [API docs](https://mcu-definitions.github.io/adapter/) |
+| [Adapter](https://github.com/mcc-embedded/adapter) | Standardized interfaces for common microcontroller peripherals. | [API docs](https://mcc-embedded.github.io/adapter/) |
 
 ### Resources
 
@@ -32,10 +32,10 @@ Technical resources supporting hardware development.
 
 | Repository | Description |
 | --- | --- |
-| [Datasheets](https://github.com/mcu-definitions/datasheets) | Official datasheets for components and devices used in MCC projects. |
+| [Datasheets](https://github.com/mcc-embedded/datasheets) | Official datasheets for components and devices used in MCC projects. |
 
 ## Architecture
 
 MCC separates hardware definitions, reusable adapter contracts, device-specific implementations, and peripheral libraries.
 
-[Architecture Overview](https://github.com/mcu-definitions/.github/blob/main/docs/architecture.md)
+[Architecture Overview](https://github.com/mcc-embedded/.github/blob/main/docs/architecture.md)
