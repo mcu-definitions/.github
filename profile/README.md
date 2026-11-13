@@ -1,4 +1,4 @@
-# MCC
+# Microcontroller Common Components.
 
 Open-source libraries and resources for low-level hardware development.
 
