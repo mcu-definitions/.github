@@ -5,7 +5,7 @@ Open-source libraries and resources for low-level hardware development.
 The organization maintains hardware definition libraries, technical documentation, datasheets and supporting tools for microcontrollers, microprocessors and embedded systems.
 
 > [!NOTE]
-> MCC is a learning project focused on C++ and low-level hardware development, progressing from hardware definitions to high-level abstractions. It explores peripheral interfaces, software architecture, and compatibility across different microcontroller families and architectures.
+> **MCC** is a learning project focused on C++ and low-level hardware development, progressing from hardware definitions to high-level abstractions. It explores peripheral interfaces, software architecture, and compatibility across different microcontroller families and architectures.
 
 ## Repositories
 
